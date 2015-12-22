@@ -1,0 +1,25 @@
+tig:
+  # tig prefix (default: /usr/local)
+  prefix: /usr/local
+
+  # source dir (default: /usr/local/src)
+  src: /usr/local/src
+
+  # specify scheme to use in git clone (default: git)
+  scheme: git
+
+  # install version (default: HEAD)
+  version: 2.1.1
+
+git_now:
+  # tig prefix (default: /usr/local)
+  prefix: /usr/local
+
+  # source dir (default: #{node[:git_now][:prefix]}/src)
+  src: /usr/local/src
+
+  # specify scheme to use in git clone (default: git)
+  scheme: git
+
+  # install revision (default: HEAD)
+  revision: v0.1.1.0
