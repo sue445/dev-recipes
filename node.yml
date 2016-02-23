@@ -23,3 +23,13 @@ git_now:
 
   # install revision (default: HEAD)
   revision: v0.1.1.0
+
+tmux:
+  version: 2.0
+  # prefix: ~/apps
+
+libevent:
+  version: 2.0.22
+
+ncurses:
+  version: 5.9
