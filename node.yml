@@ -26,6 +26,7 @@ git_now:
 
 tmux:
   version: 2.0
+  # prefix: /usr/local
   # prefix: ~/apps
 
 libevent:
