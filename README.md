@@ -6,6 +6,7 @@ My itamae recipes for develop server
   * https://github.com/sue445/itamae-plugin-recipe-tig
 * [git-now](https://github.com/iwata/git-now)
   * https://github.com/sue445/itamae-plugin-recipe-git_now
+* [tmux](https://tmux.github.io/) (without package)
 
 ## Setup
 ```sh
