@@ -13,7 +13,8 @@ GEM
       itamae
     itamae-plugin-recipe-tig (0.1.0)
       itamae
-    itamae-plugin-recipe-tmux (0.1.0)
+    itamae-plugin-recipe-tmux (0.1.1)
+      itamae
     net-scp (1.2.1)
       net-ssh (>= 2.6.5)
     net-ssh (3.0.1)
