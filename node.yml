@@ -28,9 +28,3 @@ tmux:
   version: 2.0
   # prefix: /usr/local
   # prefix: ~/apps
-
-libevent:
-  version: 2.0.22
-
-ncurses:
-  version: 5.9
