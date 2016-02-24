@@ -1,6 +1,8 @@
 # dev-recipes
 My itamae recipes for develop server
 
+[![Dependency Status](https://gemnasium.com/sue445/dev-recipes.svg)](https://gemnasium.com/sue445/dev-recipes)
+
 ## Install tools
 * [tig](https://github.com/jonas/tig)
   * https://github.com/sue445/itamae-plugin-recipe-tig
