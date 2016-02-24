@@ -7,6 +7,7 @@ My itamae recipes for develop server
 * [git-now](https://github.com/iwata/git-now)
   * https://github.com/sue445/itamae-plugin-recipe-git_now
 * [tmux](https://tmux.github.io/) (without package)
+  * https://github.com/sue445/itamae-plugin-recipe-tmux
 
 ## Setup
 ```sh
