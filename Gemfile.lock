@@ -20,8 +20,8 @@ GEM
     net-ssh (3.2.0)
     net-telnet (0.1.1)
     schash (0.1.2)
-    sfl (2.2)
-    specinfra (2.63.1)
+    sfl (2.3)
+    specinfra (2.63.2)
       net-scp
       net-ssh (>= 2.7, < 4.0)
       net-telnet
